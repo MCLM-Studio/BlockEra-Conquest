@@ -1,7 +1,3 @@
----
-description: 'Block Era: Conquest'
----
-
 # 方块纪元：征伐
 
 这是一个基于 Markdown 的卡牌对战游戏规则与数据 Wiki，记录《方块纪元：征伐》的标准规则、技能词典、事件牌与单位牌数据。
