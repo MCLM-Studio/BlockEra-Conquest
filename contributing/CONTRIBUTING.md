@@ -30,11 +30,11 @@
 
 ## 模板与参考
 
+- [编辑风格指南](STYLE_GUIDE.md)
 - [变更记录模板](templates/CHANGELOG_ENTRY_TEMPLATE.md)
 - [单位牌模板](templates/UNIT_CARD_TEMPLATE.md)
 - [事件牌模板](templates/EVENT_CARD_TEMPLATE.md)
 - [技能模板](templates/SKILL_TEMPLATE.md)
-- [编辑风格指南](STYLE_GUIDE.md)
 
 ## 自检清单
 
