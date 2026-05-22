@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [方块纪元：征伐（Block Era: Conquest）](README.md)
 * [规则文档 v1.0.0](rules/00-index.md)
   * [第一部分：游戏概述](rules/01-overview/00-index.md)
   * [第二部分：核心概念](rules/02-core-concepts/00-index.md)
