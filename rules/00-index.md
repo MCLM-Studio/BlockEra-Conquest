@@ -1,6 +1,6 @@
-# 规则文档 v1.0.0
+# 规则文档
 
-欢迎阅读《方块纪元：征伐》标准规则文档。本版为 v1.0.0。
+欢迎阅读《方块纪元：征伐》标准规则文档
 
 ## 导航
 
@@ -12,7 +12,7 @@
 - [第六部分：单位牌属性](06-unit-attributes/00-index.md)
 - [第七部分：疲劳规则](07-fatigue/00-index.md)
 - [第八部分：卡组构筑规则](08-deckbuilding/00-index.md)
-- [技能词典](09-skills/00-index.md)
-- [事件牌效果说明](10-events/00-index.md)
-- [单位牌数据表](11-unit-data/00-index.md)
-- [版本信息](12-version/00-index.md)
+- [技能词典](../skills/00-index.md)
+- [事件牌效果说明](../events/00-index.md)
+- [单位牌数据表](../unit-data/00-index.md)
+- [版本信息](../version/00-index.md)
