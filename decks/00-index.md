@@ -47,7 +47,7 @@ BOSS
 ## 卡组构建校验与解析工具
 
 - 这是一个帮你构建卡组、校验卡组合法性和解析他人卡组的工具
-- 下载地址：[卡组构建校验与解析工具]()
+- 工具的仓库地址：[卡组构建校验与解析工具](https://github.com/MCLM-Studio/BlockEra-Conquest-DeckToolkit)
 
 ## 官方推荐卡组
 

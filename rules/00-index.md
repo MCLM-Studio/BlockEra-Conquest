@@ -12,6 +12,8 @@
 - [第六部分：单位牌属性](06-unit-attributes/00-index.md)
 - [第七部分：疲劳规则](07-fatigue/00-index.md)
 - [第八部分：卡组构筑规则](08-deckbuilding/00-index.md)
+
+## 其他文档
 - [技能词典](../skills/00-index.md)
 - [事件牌效果说明](../events/00-index.md)
 - [单位牌数据表](../unit-data/00-index.md)
