@@ -1,6 +1,6 @@
 # 技能名称（标题）
 
-[返回：技能词典](00-index.md) | [单位牌数据表](../unit-data/00-index.md)
+[返回：技能词典](../../skills/00-index.md) | [单位牌数据表](../../unit-data/00-index.md)
 
 - 触发条件 
 - 效果说明 

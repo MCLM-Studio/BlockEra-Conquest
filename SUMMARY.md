@@ -102,6 +102,12 @@
     
 * [版本信息](version/00-index.md)
 
+* [卡组](decks/00-index.md)
+  * [官方推荐卡组](decks/01-official-decks/00-index.md)
+    * [主世界尸潮](decks/01-official-decks/01-horde.md)
+    * [爆破围攻](decks/01-official-decks/02-demolition-siege.md)
+    * [末影渗透](decks/01-official-decks/03-ender-infiltration.md)
+
 * [贡献指南](contributing/CONTRIBUTING.md)
   * [编辑风格指南](contributing/STYLE_GUIDE.md)
   * [变更记录模板](contributing/templates/CHANGELOG_ENTRY_TEMPLATE.md)

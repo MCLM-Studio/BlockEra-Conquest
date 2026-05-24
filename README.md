@@ -13,6 +13,7 @@
 - [事件牌效果说明](events/00-index.md)
 - [单位牌数据表](unit-data/00-index.md)
 - [版本信息](version/00-index.md)
+- [卡组](decks/00-index.md)
 
 ## 贡献方式
 
@@ -22,6 +23,7 @@
 - [单位牌模板](contributing/templates/UNIT_CARD_TEMPLATE.md)
 - [事件牌模板](contributing/templates/EVENT_CARD_TEMPLATE.md)
 - [技能模板](contributing/templates/SKILL_TEMPLATE.md)
+- [卡组分享格式](decks/00-index.md)
 
 ## 版权与许可
 
