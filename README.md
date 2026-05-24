@@ -1,10 +1,12 @@
-# 方块纪元：征伐（Block Era: Conquest）
+# 方块纪元：征伐 Wiki
+
+> Block Era: Conquest - Wiki
 
 官方开源 Wiki 仓库，用于维护《方块纪元：征伐》的规则、技能、事件与单位数据。内容以 Markdown 形式组织，适合作为规则编写、版本迭代与协作维护的统一来源。本 README 仅作为仓库说明，不是 Wiki 首页。
 
 ## 访问 Wiki
 
-要访问本Wiki，请前往我们的网站：https://mclm.gitbook.io/bec
+- 要访问本Wiki，请前往我们的网站：https://mclm.gitbook.io/bec
 
 ## 常用入口
 
@@ -24,6 +26,10 @@
 - [事件牌模板](contributing/templates/EVENT_CARD_TEMPLATE.md)
 - [技能模板](contributing/templates/SKILL_TEMPLATE.md)
 - [卡组分享格式](decks/00-index.md)
+
+## 实用工具
+
+- [卡组构建校验与解析工具](https://github.com/MCLM-Studio/BlockEra-Conquest-DeckToolkit)
 
 ## 版权与许可
 
