@@ -27,4 +27,4 @@
 
 ## 版权与许可
 
-- 许可协议见 [LICENSE](LICENSE)。
+- 许可协议见 [LICENSE](https://github.com/MCLM-Studio/BlockEra-Conquest-Wiki/blob/main/LICENSE)。
