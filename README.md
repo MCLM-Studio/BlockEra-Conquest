@@ -7,7 +7,7 @@
 ## 访问 Wiki
 
 - [主站点](https://mclm.gitbook.io/bec)
-- [备用站点](https://blockera-conquest.github.io/wiki)
+- [备用站点](https://mclm-studio.github.io/BlockEra-Conquest-Wiki/)
 
 ## 常用入口
 
