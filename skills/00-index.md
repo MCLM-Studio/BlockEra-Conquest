@@ -18,13 +18,14 @@
 - [探测](14-detect.md)
 - [音波攻击](15-sonic-attack.md)
 - [怕光](16-fear-of-light.md)
-- [射击](17-shooting.md)
-- [生虫](18-infest.md)
-- [移动方块](19-move-block.md)
-- [增援](20-reinforcement.md)
-- [载具免疫](21-vehicle-immunity.md)
-- [自爆 X](22-self-destruct.md)
-- [虫蚀](23-infestation.md)
+- [攀爬](17-climb.md)
+- [射击](18-shooting.md)
+- [生虫](19-infest.md)
+- [移动方块](20-move-block.md)
+- [增援](21-reinforcement.md)
+- [载具免疫](22-vehicle-immunity.md)
+- [自爆 X](23-self-destruct.md)
+- [虫蚀](24-infestation.md)
 
 相关：
 

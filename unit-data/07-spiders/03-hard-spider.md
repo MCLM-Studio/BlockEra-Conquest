@@ -8,7 +8,6 @@
 - 生命：2
 - 类别：敌对生物
 - 阵营：主世界
-- 技能：[中毒免疫](../../skills/03-poison-immunity.md)
+- 技能：[中毒免疫](../../skills/03-poison-immunity.md)、[攀爬](../../skills/17-climb.md)
 - 分级：困难
 - 带入上限：1
-

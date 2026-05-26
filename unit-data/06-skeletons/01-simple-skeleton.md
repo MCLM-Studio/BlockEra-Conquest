@@ -8,7 +8,7 @@
 - 生命：2
 - 类别：敌对生物
 - 阵营：主世界
-- 技能：[怕光](../../skills/16-fear-of-light.md)、[射击](../../skills/17-shooting.md)
+- 技能：[怕光](../../skills/16-fear-of-light.md)、[射击](../../skills/18-shooting.md)
 - 分级：简单
 - 带入上限：4
 
