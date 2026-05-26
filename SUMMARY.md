@@ -104,7 +104,7 @@
 
 * [卡组](decks/00-index.md)
   * [官方推荐卡组](decks/01-official-decks/00-index.md)
-    * [主世界尸潮](decks/01-official-decks/01-horde.md)
+    * [尸潮](decks/01-official-decks/01-horde.md)
     * [爆破围攻](decks/01-official-decks/02-demolition-siege.md)
     * [末影渗透](decks/01-official-decks/03-ender-infiltration.md)
 
