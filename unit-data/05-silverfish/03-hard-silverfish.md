@@ -8,7 +8,7 @@
 - 生命：1
 - 类别：敌对生物
 - 阵营：主世界、(末地)
-- 技能：[怕光](../../skills/15-fear-of-light.md)、[虫蚀](../../skills/22-infestation.md)
+- 技能：[怕光](../../skills/16-fear-of-light.md)、[虫蚀](../../skills/23-infestation.md)
 - 分级：困难
 - 带入上限：1
 

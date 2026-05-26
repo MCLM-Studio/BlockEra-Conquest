@@ -8,7 +8,7 @@
 - 生命：2
 - 类别：敌对生物
 - 阵营：主世界
-- 技能：[怕光](../../skills/15-fear-of-light.md)、[破门](../../skills/08-breach.md)、[奋战](../../skills/05-strive.md)
+- 技能：[怕光](../../skills/16-fear-of-light.md)、[破门](../../skills/09-breach.md)、[奋战](../../skills/06-strive.md)、[感染](../../skills/05-infection.md)
 - 分级：困难
 - 带入上限：1
 

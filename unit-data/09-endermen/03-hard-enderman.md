@@ -8,7 +8,7 @@
 - 生命：4
 - 类别：敌对生物
 - 阵营：主世界、下界、末地
-- 技能：[激怒](../../skills/10-enrage.md)、[瞬移](../../skills/12-teleport.md)、[移动方块](../../skills/18-move-block.md)
+- 技能：[激怒](../../skills/11-enrage.md)、[瞬移](../../skills/13-teleport.md)、[移动方块](../../skills/19-move-block.md)
 - 分级：困难
 - 带入上限：1
 

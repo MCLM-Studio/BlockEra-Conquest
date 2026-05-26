@@ -8,6 +8,6 @@
 - 生命：1
 - 类别：方块
 - 阵营：主世界
-- 技能：[生虫](../../skills/17-infest.md)、[增援](../../skills/19-reinforcement.md)
+- 技能：[生虫](../../skills/18-infest.md)、[增援](../../skills/20-reinforcement.md)
 - 来源：虫蚀技能生成
 
