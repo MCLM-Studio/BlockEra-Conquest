@@ -8,7 +8,7 @@
 - 生命：3
 - 类别：敌对生物
 - 阵营：主世界
-- 技能：[自爆](../../skills/21-self-destruct.md)
+- 技能：[自爆 2](../../skills/21-self-destruct.md)
 - 分级：普通
 - 带入上限：2
 

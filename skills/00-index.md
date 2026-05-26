@@ -22,7 +22,7 @@
 - [移动方块](18-move-block.md)
 - [增援](19-reinforcement.md)
 - [载具免疫](20-vehicle-immunity.md)
-- [自爆](21-self-destruct.md)
+- [自爆 X](21-self-destruct.md)
 - [虫蚀](22-infestation.md)
 
 相关：
